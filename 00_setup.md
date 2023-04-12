@@ -20,16 +20,8 @@ bash Anaconda3-2023.03-Linux-x86_64.sh
 
 1. Open the terminal, and run the following command to download Anaconda:
 
-* (Intel chip):
-
-```
-wget https://repo.anaconda.com/archive/Anaconda3-2023.03-MacOSX-x86_64.sh
-```
-* (M1 chip):
-
-```
-wget https://repo.anaconda.com/archive/Anaconda3-2023.03-MacOSX-arm64.sh
-```
+* (Intel chip): ```wget https://repo.anaconda.com/archive/Anaconda3-2023.03-MacOSX-x86_64.sh```
+* (M1 chip): ```wget https://repo.anaconda.com/archive/Anaconda3-2023.03-MacOSX-arm64.sh```
 
 2. After the downloading, run the following command to install it:
 * (Intel chip) ```bash Anaconda3-2023.03-Linux-x86_64.sh```
