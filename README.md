@@ -42,7 +42,7 @@ This course is also available online via [Zoom](https://anu.zoom.us/j/8418505059
 
 * Python modules 
 * Introduction to Biopython and cogent3
-* Plotting 
+* Plotting with seaborn
 
 ## Week 4 - ...
 
