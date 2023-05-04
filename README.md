@@ -1,6 +1,6 @@
 # Introduction to Python - May 2023
 
-The purpose of this short course is to teach biologists the fundamentals of programming in Python, enable researchers to write their own Python programs to solve problems in the biological science, and to encourage biologists to think computationally and use programming as a tool for scientific discovery. 
+The purpose of this short course is to teach biologists the fundamentals of programming, enable them to write their own Python programs to solve problems in the biological science, and to encourage them to think computationally and use programming as a tool for scientific discovery. 
 
 # Schedule 
 
