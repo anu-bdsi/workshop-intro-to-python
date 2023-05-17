@@ -40,9 +40,11 @@ This course is also available online via [Zoom](https://anu.zoom.us/j/8418505059
 
 ## Week 3 - Handling DNA sequences and plotting 
 
-* Python modules 
-* Introduction to Biopython and cogent3
-* Plotting with seaborn
+* Python Modules
+* Python Classes and Objects
+* Downloading the Sequence Data
+* Introduction to Biopython
+* Plotting with Matplotlib and Seaborn
 
 ## Week 4 - ...
 
